@@ -1,0 +1,169 @@
+{
+  "users": [
+    {
+      "id": "235e",
+      "nombre": "Alexis Eduardo",
+      "email": "alexis@gmail.com",
+      "password": "12345",
+      "rol": "admin"
+    },
+    {
+      "id": "642f",
+      "nombre": "Arlex",
+      "email": "arlex@gmail.com",
+      "password": "12345",
+      "rol": "cliente"
+    },
+    {
+      "id": "296b",
+      "nombre": "Kelly Meylani",
+      "email": "kelly@gmail.com",
+      "password": "12345",
+      "rol": "cliente"
+    },
+    {
+      "id": "77df",
+      "nombre": "Fernando",
+      "email": "fervargas@gmail.com",
+      "password": "121212",
+      "rol": "cliente"
+    },
+    {
+      "id": "f855",
+      "nombre": "Fernando Vargas Avalos",
+      "email": "fernandov@gmail.com",
+      "password": "12345",
+      "rol": "cliente"
+    },
+    {
+      "id": "2055",
+      "nombre": "Rafael Vazquez",
+      "email": "rafavazquez@gmail.com",
+      "password": "12345",
+      "rol": "cliente"
+    }
+  ],
+  "productos": [
+    {
+      "id": "01",
+      "name": "Xbox Series S",
+      "descripcion": "512 GB",
+      "imagen": "https://content.gucca.dk/covers/big/x/b/xbox-series-s-512gb-digital-console_532554.jpg",
+      "precio": "4,999.00",
+      "categoria": "Consolas"
+    },
+    {
+      "id": "02",
+      "name": "Xbox Series X",
+      "imagen": "https://www.iceloshop.com.br/image/cache/catalog/macbook/games/61jgkhqxhxl.sl1500-650x650.jpg",
+      "descripcion": "1 TB",
+      "precio": "7,999.00",
+      "categoria": "Consolas"
+    },
+    {
+      "id": "03",
+      "name": "PlayStation 5",
+      "imagen": "https://th.bing.com/th/id/R.6010b10f8d415cf3f182633cb7ed3ed8?rik=q7XMrMRi%2f%2fEzyA&pid=ImgRaw&r=0",
+      "descripcion": "1 TB",
+      "precio": "8,999.00",
+      "categoria": "Consolas"
+    },
+    {
+      "id": "04",
+      "name": "Playera Polo",
+      "imagen": "https://th.bing.com/th/id/R.1efe8ef742488835794a0b1767611ca1?rik=Fv0m0SDIW5zgeQ&pid=ImgRaw&r=0",
+      "descripcion": "Playera color negro",
+      "precio": "8,999.00",
+      "categoria": "Ropa"
+    },
+    {
+      "id": "05",
+      "name": "Playera Nike",
+      "imagen": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-7e3c41c5-2dff-4fbf-a39a-4c60d4c0e27a/playera-de-entrenamiento-dri-fit-LR2z2m.jpg",
+      "descripcion": "Basica color blanco",
+      "precio": "8,999.00",
+      "categoria": "Ropa"
+    },
+    {
+      "id": "0f10",
+      "name": "Nike Air Force 1",
+      "imagen": "https://images.complex.com/complex/images/c_scale,q_auto,w_1920/fl_lossy,pg_1/iot1dbjmzr7z6kfkoxrb/nike-air-force-1-lead-1",
+      "descripcion": "Tenis color Blanco",
+      "precio": "2999",
+      "categoria": "Calzado"
+    },
+    {
+      "id": "0a2c",
+      "name": "Nike Air Force 1",
+      "imagen": "https://images.complex.com/complex/images/c_scale,q_auto,w_1920/fl_lossy,pg_1/iot1dbjmzr7z6kfkoxrb/nike-air-force-1-lead-1",
+      "descripcion": "Tenis color Blanco",
+      "precio": "2999",
+      "categoria": "Calzado"
+    },
+    {
+      "id": "ad50",
+      "name": "Terreneitor",
+      "imagen": "https://th.bing.com/th/id/OIP.hz_2NUyNFCun0jfKVArDCQAAAA?rs=1&pid=ImgDetMain",
+      "descripcion": "Coche de control remoto",
+      "precio": "2400",
+      "categoria": "Jugueteria"
+    },
+    {
+      "id": "e8cb",
+      "name": "Bocina JBL GO2",
+      "imagen": "https://ss610.liverpool.com.mx/xl/1103957644.jpg",
+      "descripcion": "Bocina portatil Bluethoot",
+      "precio": "549",
+      "categoria": "Electronica"
+    },
+    {
+      "id": "320a",
+      "name": "Televison LG ",
+      "imagen": "https://www.lg.com/us/images/tvs/md05938716/gallery/Z01.jpg",
+      "descripcion": "Smart TV 50 Pulgadas",
+      "precio": "7999",
+      "categoria": "Electronica"
+    }
+  ],
+  "empleado": [
+    {
+      "id": "621c",
+      "name": "David Giovani Vazquez Torres",
+      "rfc": "DAVT040630RV",
+      "email": "david@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "11fc",
+      "name": "Keren Areli Vazquez Torres",
+      "rfc": "VATK060217AJ1",
+      "email": "12345",
+      "password": "123456",
+      "rol": "Gerente"
+    },
+    {
+      "id": "b53a",
+      "name": "Irais Torres Cipriano",
+      "rfc": "TOCI820208RA9",
+      "email": "irais@gmail.com",
+      "password": "12345",
+      "rol": "Vendedor"
+    },
+    {
+      "id": "8ae7",
+      "name": "",
+      "rfc": "",
+      "email": "",
+      "password": "",
+      "rol": ""
+    },
+    {
+      "id": "a011",
+      "name": "",
+      "rfc": "",
+      "email": "",
+      "password": "",
+      "rol": ""
+    }
+  ]
+}
